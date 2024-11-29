@@ -1,0 +1,3 @@
+[submodule "AstarAlgorithm"]
+	path = AstarAlgorithm
+	url = https://github.com/Dhia510/AstarAlgorithm.git
