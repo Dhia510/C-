@@ -1,3 +1,6 @@
 [submodule "AstarAlgorithm"]
 	path = AstarAlgorithm
 	url = https://github.com/Dhia510/AstarAlgorithm.git
+[submodule "CppND-Route-Planning-Project"]
+	path = CppND-Route-Planning-Project
+	url = https://github.com/Dhia510/CppND-Route-Planning-Project.git
